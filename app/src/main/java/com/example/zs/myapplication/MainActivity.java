@@ -46,4 +46,9 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"jni 太坑："+result[0]+"--"+result[1]+"--"+result[2],Toast.LENGTH_SHORT).show();
 
     }
+
+    public void function(){
+
+        int a = 1+2;
+    }
 }
